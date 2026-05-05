@@ -1,0 +1,27 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Case Green v1.18.1.0.8549 
+SCMBranch: HEAD 
+SCMCommit: 8549205d9ee5dd0a5da81fcc6b44692e6902d711 
+SCMTimeStamp: "2026-04-28 11:09:44 +0200" 
+DateTime: "2026-05-04 19:29:13 -0700" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 8 x86_64 
+SystemLanguage: en 
+CPUModel: 12th Gen Intel(R) Core(TM) i3-12100F 
+CPUSpeed: 0 
+CPUPhysicalCores: 4 
+CPULogicalCores: 8 
+SystemMemory: 24331 
+LaunchArguments: --debug --gdpr-compliant --paradox-account-userid="" --pdx-launcher-session-token="" 
+
+# Application Specific Data 
+IsLiveBuild: true 
+debug: 1 
+DataChecksum: e79435dcf2eca3fb65ec1f782d8cf4ac
+AppChecksum: d41d8cd98f00b204e9800998ecf8427e
+HasMods: true
+Mods: A Race For The Ages
+IsOldSave: false

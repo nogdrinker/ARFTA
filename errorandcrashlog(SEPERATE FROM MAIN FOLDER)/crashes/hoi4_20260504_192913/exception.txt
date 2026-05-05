@@ -1,0 +1,37 @@
+Application: HOI4 
+Version: Case Green v1.18.1.0.8549 
+Date/Time: 2026-05-04 19:29:13
+
+Unhandled Exception C0000005 (EXCEPTION_ACCESS_VIOLATION) at address 0x00007FF660EC96AA
+
+Stack Trace: 
+  1    hoi4.exe                 PHYSFS_swapULE64 (+ 12932986)
+  2    hoi4.exe                 PHYSFS_swapULE64 (+ 8193360)
+  3    hoi4.exe                 PHYSFS_swapULE64 (+ 1112971)
+  4    hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  5    hoi4.exe                 PHYSFS_swapULE64 (+ 3337313)
+  6    hoi4.exe                 PHYSFS_swapULE64 (+ 1001457)
+  7    hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  8    hoi4.exe                 PHYSFS_swapULE64 (+ 3337313)
+  9    hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  10   hoi4.exe                 PHYSFS_swapULE64 (+ 3337313)
+  11   hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  12   hoi4.exe                 PHYSFS_swapULE64 (+ 5363284)
+  13   hoi4.exe                 PHYSFS_swapULE64 (+ 5419358)
+  14   hoi4.exe                 PHYSFS_swapULE64 (+ 1337769)
+  15   hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  16   hoi4.exe                 PHYSFS_swapULE64 (+ 3337313)
+  17   hoi4.exe                 PHYSFS_swapULE64 (+ 3335952)
+  18   hoi4.exe                 PHYSFS_swapULE64 (+ 8589504)
+  19   hoi4.exe                 PHYSFS_swapULE64 (+ 8589309)
+  20   hoi4.exe                 (function-name not available) (+ 0)
+  21   hoi4.exe                 PHYSFS_swapULE64 (+ 4675313)
+  22   hoi4.exe                 PHYSFS_swapULE64 (+ 9602682)
+  23   hoi4.exe                 PHYSFS_swapULE64 (+ 33106641)
+  24   hoi4.exe                 PHYSFS_swapULE64 (+ 33104298)
+  25   hoi4.exe                 (function-name not available) (+ 0)
+  26   hoi4.exe                 PHYSFS_writeULE64 (+ 456114)
+  27   hoi4.exe                 PHYSFS_writeULE64 (+ 558)
+  28   KERNEL32.DLL             BaseThreadInitThunk (+ 29)
+  29   ntdll.dll                RtlUserThreadStart (+ 40)
+  30   ntdll.dll                RtlUserThreadStart (+ 40)
