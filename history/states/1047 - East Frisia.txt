@@ -1,0 +1,30 @@
+state={
+	id=1047
+	name="STATE_1047"
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		add_core_of = WGR
+		add_core_of = DDR
+		victory_points = {
+			11360 1
+		}
+
+		victory_points = {
+			13383 1
+		}
+
+		victory_points = {
+			241 5
+		}
+
+	}
+
+	provinces={
+	11360 13382 13383 13384 13385 13386 241
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

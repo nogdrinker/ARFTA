@@ -1,0 +1,22 @@
+state={
+	id=1053
+	name="STATE_1053"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
+		add_core_of = BOS
+		add_core_of = SER
+		victory_points = { 
+			13388 1
+		}
+	}
+
+	provinces={
+	982 11741 13389 6619 9588 9591 13390
+	}
+	manpower=3285
+	buildings_max_level_factor=1.000
+	state_category=town
+}

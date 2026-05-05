@@ -1,0 +1,15 @@
+version="1.18.1"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Sound"
+	"Military"
+	"Ideologies"
+	"Graphics"
+}
+name="A Race For The Ages"
+supported_version="1.18.1.0"

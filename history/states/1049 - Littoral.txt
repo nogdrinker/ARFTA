@@ -1,0 +1,19 @@
+state={
+	id=1049
+	name="STATE_1049"
+
+	history={
+		owner = SLV
+		add_core_of = SLV
+		add_core_of = CRO
+		add_core_of = YUG
+		add_claim_by = ITA
+	}
+
+	provinces={
+	11595 13387 599
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

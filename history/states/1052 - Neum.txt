@@ -1,0 +1,22 @@
+state={
+	id=1052
+	name="STATE_1052"
+
+	history={
+		owner = HZB
+		add_core_of = YUG
+		add_core_of = CRO
+		add_core_of = BOS
+		add_core_of = HZB
+		victory_points = { 
+			13388 1
+		}
+	}
+
+	provinces={
+	13388
+	}
+	manpower=3285
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,52 @@
+state = {
+	id = 56
+	name = "STATE_56"
+	manpower = 2058467
+	
+	state_category = city
+
+	history = {
+
+		owner = WGR
+		add_core_of = WGR
+		add_core_of = DDR
+
+
+		victory_points = {
+			3326 5 # Bremen
+		}
+
+		victory_points = {
+			11388 5 # Münster
+		}
+
+		victory_points = {
+			9347 20 # Hamburg
+		}
+
+		victory_points = {
+			374 2 # Cuxhaven
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 2
+			fuel_silo = 1
+			air_base = 3
+		}
+		
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+			}
+		}
+	}
+
+	provinces = {
+		247 309 336 3234 9281 11233 11264 11388 3326 374 6349 3271 3395 6325 9347 11346
+	}
+
+	local_supplies = 14.0 
+}

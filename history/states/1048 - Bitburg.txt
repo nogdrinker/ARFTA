@@ -1,0 +1,22 @@
+state={
+	id=1048
+	name="STATE_1048"
+
+	history={
+		owner = LUX
+		add_core_of = DDR
+		add_core_of = WGR
+		add_core_of = LUX
+		victory_points = { 
+			11435 1
+		}
+
+	}
+
+	provinces={
+	11435
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+	state_category=town
+}
