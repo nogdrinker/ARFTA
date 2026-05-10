@@ -4,10 +4,6 @@ GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
 }
-HZB = {
-	color = rgb { 230 70 180 }
-	color_ui = rgb { 230 70 180 }
-}
 ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
@@ -15,14 +11,6 @@ ENG = {
 SOV = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
-}
-BAY = {
-	color = rgb { 0 152 212 }
-	color_ui = rgb { 0 152 212 }
-}
-WUR = {
-	color = rgb { 255 215 0 }
-	color_ui = rgb { 255 215 0 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -447,16 +435,13 @@ COG = {
 	color = rgb { 152 159 209 }
 	color_ui = rgb { 152 159 209 }
 }
-DDR = {
-    color = rgb { 124 24 21 }
-    color_ui = rgb { 124 24 21 }
 MZB = {
 	color = rgb { 112 62 90 }
 	color_ui = rgb { 112 62 90 }
 }
 KEN = {
 	color = rgb { 145 103 14 }
-	color_ui = rgb { 145 103 14 }
+	color_ui = rgb { 145 103 14 }	
 }
 ZIM = {
 	color = rgb { 7 7 239 }
@@ -686,6 +671,10 @@ D50 = {
 	color = rgb { 210 106 47 }
 	color_ui = rgb { 255 138 61 }
 }
+BAY = {
+	color = rgb { 0 152 212 }
+	color_ui = rgb { 0 152 212 }
+}
 MEK = {
 	color = rgb { 186 245 86 }
 	color_ui = rgb { 186 245 86 }
@@ -701,6 +690,10 @@ SAX = {
 HAN = {
 	color = rgb { 255 0 0 }
 	color_ui = rgb { 255 0 0 }
+}
+WUR = {
+	color = rgb { 255 215 0 }
+	color_ui = rgb { 255 215 0 }
 }
 SHL = {
 	color = rgb { 204 0 0 }
@@ -1210,6 +1203,12 @@ HBC = {
 	color = rgb { 156 27 22 }
 	color_ui = rgb { 94 17 14 }
 }
-
+DDR = {
+    color = rgb { 124 24 21 }
+    color_ui = rgb { 124 24 21 }
+HZB = {
+	color = rgb { 230 70 180 }
+	color_ui = rgb { 230 70 180 }
+}
 
 
